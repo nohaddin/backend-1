@@ -1,0 +1,21 @@
+[
+    {
+"id":1,
+"name":"nuhu",
+"surname":"qurbanli",
+"age":19
+    },
+    {
+        "id":2,
+    "name":"nicat",
+    "surname":"eliyev",
+    "age":19
+
+    },
+    {
+        "id":3,
+        "name":"mesme",
+        "surname":"agayev",
+        "age":59
+    }
+]
